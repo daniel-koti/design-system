@@ -1,6 +1,6 @@
 {
   "name": "@dm-ignite-ui/react",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -26,6 +26,8 @@
   "dependencies": {
     "@radix-ui/react-avatar": "^1.0.3",
     "@radix-ui/react-checkbox": "^1.0.4",
+    "@radix-ui/react-toast": "^1.1.4",
+    "@radix-ui/react-tooltip": "^1.0.6",
     "@stitches/react": "^1.2.8",
     "phosphor-react": "^1.4.1"
   }

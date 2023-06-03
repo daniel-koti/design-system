@@ -1,5 +1,11 @@
 # @dm-ignite-ui/react
 
+## 2.0.2
+
+### Patch Changes
+
+- Add toast and tooltip component
+
 ## 2.0.1
 
 ### Patch Changes
